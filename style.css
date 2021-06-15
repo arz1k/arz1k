@@ -1,0 +1,75 @@
+
+body{
+    background: #000 url(https://wallpapercave.com/wp/wp2757874.gif) 
+
+}
+
+.educationtext {
+
+font-family: arial;
+font-size: 100%;
+font-style: arial;
+font-weight: arial;
+color: #ffffff;
+position: absolute;
+top: 420px;
+right: 0px;
+width: 1500px;
+height: 1500px;
+
+}
+
+
+.worktext {
+font-family: arial;
+font-size: 100%;
+font-style: arial;
+font-weight: arial;
+color: #ffffff;
+position: absolute;
+top: 0px;
+right: 450px;
+width: 0px;
+height: 200px;
+
+}
+
+.personaltext {
+
+font-family: arial;
+font-size: 100%;
+font-style: arial;
+font-weight: arial;
+color: #ffffff;
+position: absolute;
+top: 0px;
+right: 750px;
+width: 0px;
+height: 200px;
+
+}
+
+
+
+.textfuncion {
+font-family: arial;
+font-size: 100%;
+font-style: arial;
+font-weight: arial;
+color: #ffffff;
+position: absolute;
+top: 0px;
+right: 1100px;
+width: 0px;
+height: 200px;
+
+}
+.photo {
+position: absolute;
+top: 20px;
+right: 1550px;
+width: 0px;
+height: 200px;
+}
+
+
